@@ -1,0 +1,26 @@
+<!-- {{ if isset .Site.Params "latitude" }}
+  {{ if isset .Site.Params "longitude" }} -->
+      <!-- <div class="hidden">
+        <input id="gmap-lat" value="{{ .Site.Params.latitude }}" />
+        <input id="gmap-lng" value="{{ .Site.Params.longitude }}" />
+        <input id="gmap-marker" value="{{ .Site.BaseURL }}img/marker.png" /> -->
+        <!-- {{ if isset .Site.Params "direction" }}
+          <input id="gmap-dir" value="{{ .Site.Params.direction }}" />
+        {{ else }} -->
+          <!-- <input id="gmap-dir" value="{{ .Site.Params.latitude }},{{ .Site.Params.longitude }}" /> -->
+        <!-- {{ end }} -->
+      <!-- </div> -->
+      <!-- <div id="map" > -->
+ <!-- {{ end }}
+{{ end }} -->
+<div style="overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3319.424030155786!2d-117.84902728555363!3d33.69797514376478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcdebc77252e75%3A0x5bf7fd4d7620e2c4!2sPeopleSpace!5e0!3m2!1sen!2sus!4v1539126187564" width="1000" height="300" frameborder="0" style="border:0;
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;" allowfullscreen></iframe>
+</div>
