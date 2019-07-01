@@ -7,6 +7,8 @@ categories: []
 tags: []
 ---
 
+TEST 063019
+
 This month we have Alan Dipert from RStudio coming to talk about integrating React.js and Shiny. Alan is one of the key developers behind the development of Shiny and we are so lucky to have him there to share his knowledge.
 
 The Paul Merage School of Business at UCI is graduating their second cohort of students from their MS in Business Analytics program. Last year we invited them to present their Capstone projects and it was a huge success, so they are back this year. We will have two groups presenting. One worked with the Amazon Alexa Skill Store and one worked with Pacific Life. Check out their abstracts for more details.
