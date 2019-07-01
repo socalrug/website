@@ -14,12 +14,19 @@ The Paul Merage School of Business at UCI is graduating their second cohort of s
 Come early and network. Do not forget to purchase a raffle ticket or two. It helps support the meet-up and we have a great prize. A book of your choice from CRC Press. Yup, you get to chose the book!
 
 == Schedule ==
+
 6:30 - 6:50 Networking
+
 6:50 - 7:00 Welcome & general announcement
+
 7:00 - 7:15 UCI - Pacific Life
+
 7:15 - 7:30 UCI - Amazon Alexa Skill Store
+
 7:30 - 8:00 Integrating React.js and Shiny
+
 8:00 - Raffle
+
 8:00 - 8:30 Networking and Clean-up
 
 == UCI MSBA Capstone Talks ==
