@@ -5,6 +5,7 @@ date: '2019-11-19'
 slug: Advanced-Regression
 categories: []
 tags: []
+banner: "img/banners/AR_olga.png"
 ---
 
 
