@@ -1,11 +1,11 @@
 ---
-title: Interview  Olga Korosteleva
+title: Interview with Olga Korosteleva
 author: ''
 date: '2019-11-19'
 slug: Advanced-Regression
 categories: []
 tags: []
-banner: "img/banners/OKbanner.jpeg"
+banner: "img/banners/OKbanner.jpg"
 ---
 
 
