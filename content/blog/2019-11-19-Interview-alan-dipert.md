@@ -1,5 +1,5 @@
 ---
-title: Interview:  Alan Dipert
+title: Interview  Alan Dipert
 author: 
 date: '2019-11-19'
 slug: alan-dipert

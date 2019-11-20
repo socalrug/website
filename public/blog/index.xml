@@ -1,32 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Orange County R User Group</title>
-    <link>/blog/</link>
-    <description>Recent content in Blogs on Orange County R User Group</description>
+    <title>Blogs on Orange County R Users Group</title>
+    <link>https://ocrug.org/blog/</link>
+    <description>Recent content in Blogs on Orange County R Users Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ocrug.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Interview  Alan Dipert</title>
+      <link>https://ocrug.org/blog/2019/11/19/2019-11-19-interview-alan-dipert/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocrug.org/blog/2019/11/19/2019-11-19-interview-alan-dipert/</guid>
+      <description>Alan Dipert
+Alan is a software engineer on the Shiny team at RStudio. In his 10+ years of experience in software development, he has helped build web applications, reporting pipelines, and many things between, including stints as a Staff Sergeant in the US Army and presidents of non-profit hacker and maker organizations. When his is not working, he likes to spend his time reading or being with his family. He holds a B.</description>
+    </item>
+    
+    <item>
+      <title>Interview  Olga Korosteleva</title>
+      <link>https://ocrug.org/blog/2019/11/19/2019-11-19-interview-olga-korosteleva/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocrug.org/blog/2019/11/19/2019-11-19-interview-olga-korosteleva/</guid>
+      <description>Olga Korosteleva Olga is a statistician by education and trade. She received her Ph.D. in statistics from Purdue University in 2002, where she taught statistics courses as a teaching assistant for six years. For the past 17 years she has been working as a professor of Statistics at Cal State University, Long Beach (CSULB). She has authored/co-authored 15 articles published in peer-reviewed journals, mostly in applied fields (kinesiology, nursing, and health sciences), including four books (clinical trials, minimax theory, nonparametric statistics, and advanced regressions).</description>
+    </item>
+    
+    <item>
       <title>Integrating React.js and Shiny, and UCI Capstone</title>
-      <link>/blog/2019/06/25/2019-06-25-integrating-react-js-and-shiny-and-uci-capstone/</link>
+      <link>https://ocrug.org/blog/2019/06/25/2019-06-25-integrating-react-js-and-shiny-and-uci-capstone/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/06/25/2019-06-25-integrating-react-js-and-shiny-and-uci-capstone/</guid>
+      <guid>https://ocrug.org/blog/2019/06/25/2019-06-25-integrating-react-js-and-shiny-and-uci-capstone/</guid>
       <description>This month we have Alan Dipert from RStudio coming to talk about integrating React.js and Shiny. Alan is one of the key developers behind the development of Shiny and we are so lucky to have him there to share his knowledge.
 The Paul Merage School of Business at UCI is graduating their second cohort of students from their MS in Business Analytics program. Last year we invited them to present their Capstone projects and it was a huge success, so they are back this year.</description>
     </item>
     
     <item>
       <title>Deep Learning using R, REST APIs and Shiny</title>
-      <link>/blog/2019/04/29/2019-04-29-deep-learning-using-r-rest-apis-and-shiny/</link>
+      <link>https://ocrug.org/blog/2019/04/29/2019-04-29-deep-learning-using-r-rest-apis-and-shiny/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/04/29/2019-04-29-deep-learning-using-r-rest-apis-and-shiny/</guid>
+      <guid>https://ocrug.org/blog/2019/04/29/2019-04-29-deep-learning-using-r-rest-apis-and-shiny/</guid>
       <description>These talks will be held on Monday, April 29th, 2019. #=== Talks
 Speaker: Ash Pahwa
 Title: Deep Learning using R and TensorFlow (Part 2) Abstract: Google released TensorFlow software in 2015 targeted for the Deep Learning applications. Two primary misconceptions about TensorFlow are as follows. First, it can only be used with Python and second, it can only be used for building deep learning applications
@@ -35,47 +54,47 @@ This talk will demystify these concepts.</description>
     
     <item>
       <title>SCASA 38th Annual Applied Statistics Workshop</title>
-      <link>/blog/2019/04/26/2019-04-26-scasa-38th-annual-applied-statistics-workshop/</link>
+      <link>https://ocrug.org/blog/2019/04/26/2019-04-26-scasa-38th-annual-applied-statistics-workshop/</link>
       <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/04/26/2019-04-26-scasa-38th-annual-applied-statistics-workshop/</guid>
+      <guid>https://ocrug.org/blog/2019/04/26/2019-04-26-scasa-38th-annual-applied-statistics-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>satRday LA 2019</title>
-      <link>/blog/2019/04/06/2019-04-06-satrday-la-2019/</link>
+      <link>https://ocrug.org/blog/2019/04/06/2019-04-06-satrday-la-2019/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/04/06/2019-04-06-satrday-la-2019/</guid>
+      <guid>https://ocrug.org/blog/2019/04/06/2019-04-06-satrday-la-2019/</guid>
       <description>This conference will be held on Saturday, April 6th, 2019. Conference for Users of R Language For more information, please check out the following website:https://losangeles2019.satrdays.org/</description>
     </item>
     
     <item>
       <title>ASA Datafest 2019</title>
-      <link>/blog/2019/04/05/2019-04-05-asa-datafest-2019/</link>
+      <link>https://ocrug.org/blog/2019/04/05/2019-04-05-asa-datafest-2019/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/04/05/2019-04-05-asa-datafest-2019/</guid>
+      <guid>https://ocrug.org/blog/2019/04/05/2019-04-05-asa-datafest-2019/</guid>
       <description>-- </description>
     </item>
     
     <item>
       <title>Deep Learning using R and Unit Testing Your Code</title>
-      <link>/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code/</link>
+      <link>https://ocrug.org/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code/</guid>
+      <guid>https://ocrug.org/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code/</guid>
       <description>These talks will be held on Tuesday, March 26th, 2019. TensorFlow has become the defacto standard for distributed computing of deep neural networks. For over a year, R has had excellent support for this capability via a series of interrelated packages (keras, tfestimators, tensorflow, tfdatasets). Check out https://tensorflow.rstudio.com/ Then come join us for the first part of a two-part talk on using R and TensorFlow.
 Hadley Wickham famously said, &amp;ldquo;it’s not that we don’t test our code, it’s that we don’t store our tests so they can be re-run automatically.</description>
     </item>
     
     <item>
       <title>Opinion Mining of Climate Change Research and Xaringan Slides</title>
-      <link>/blog/2019/02/26/2019-02-26-opinion-mining-of-climate-change-research-and-xaringan-slides/</link>
+      <link>https://ocrug.org/blog/2019/02/26/2019-02-26-opinion-mining-of-climate-change-research-and-xaringan-slides/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/02/26/2019-02-26-opinion-mining-of-climate-change-research-and-xaringan-slides/</guid>
+      <guid>https://ocrug.org/blog/2019/02/26/2019-02-26-opinion-mining-of-climate-change-research-and-xaringan-slides/</guid>
       <description>These talks will be held on Tuesday, February 26th, 2019. #=== Talks
 Speaker: Yemi Odeyemi
 Title: Opinion Mining of Climate Change Research
@@ -84,10 +103,10 @@ Climate is defined as the long-term impact of weather on a specific locality. St
     
     <item>
       <title>Tibbles and Tidy Models</title>
-      <link>/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</link>
+      <link>https://ocrug.org/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</guid>
+      <guid>https://ocrug.org/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</guid>
       <description>These talks will be given on January 29, 2019.
 
 ==== Talks Speaker: Ryan Benz
@@ -97,10 +116,10 @@ Tibbles are a &amp;ldquo;modern reimagining of the data.frame&amp;rdquo; and are
     
     <item>
       <title>OCRUG Holiday Party</title>
-      <link>/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</link>
+      <link>https://ocrug.org/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</guid>
+      <guid>https://ocrug.org/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</guid>
       <description>Holiday party will be on December 6, 2018.
 
 Details
@@ -110,10 +129,10 @@ https://www.eventbrite.com/e/third-annual-oc-user-groups-holiday-ocug-party-2018
     
     <item>
       <title>Telling Meaningful Stories with Data &amp; Connecting Javascript to Shiny</title>
-      <link>/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</link>
+      <link>https://ocrug.org/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</link>
       <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</guid>
+      <guid>https://ocrug.org/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</guid>
       <description>These talks were given on November 27, 2018.
 
 Details
@@ -130,10 +149,10 @@ According to Edward Tufte, an excellent data visualization expresses ‚ complex
     
     <item>
       <title>Alteryx &amp; Application of R</title>
-      <link>/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</link>
+      <link>https://ocrug.org/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</guid>
+      <guid>https://ocrug.org/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</guid>
       <description>#This meetup will be held on October 30, 2018.
 === Talk 1 ===
 Alteryx – TBD
@@ -144,10 +163,10 @@ Alteryx will demonstrate how you can leverage your R skills in Alteryx to build 
     
     <item>
       <title>APIs and JSON with R, and Color Palette Similarity Measures</title>
-      <link>/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</link>
+      <link>https://ocrug.org/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</guid>
+      <guid>https://ocrug.org/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</guid>
       <description>These talks were given on September 25, 2018.
 
 == Talk 1 ==
@@ -160,10 +179,10 @@ Related to my project of creating a catalog of all available color palettes in r
     
     <item>
       <title>Cancer Mutations Scores &amp; RStudio Tune-up</title>
-      <link>/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</link>
+      <link>https://ocrug.org/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</link>
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</guid>
+      <guid>https://ocrug.org/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</guid>
       <description>These talks were given on August 28, 2018.
 
 Talk 1: Classification and Statistical Analysis of Cancer Mutations Scores By: Yemi Odeyemi (Ph.D. Candidate in Data Science at Chapman University)
@@ -172,10 +191,10 @@ The talk will describe part of Yemi&amp;rsquo;s doctoral work on building a stat
     
     <item>
       <title>IBM Watson and Pacific Life</title>
-      <link>/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</link>
+      <link>https://ocrug.org/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</guid>
+      <guid>https://ocrug.org/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</guid>
       <description>These talks were given on July 31, 2018.
 
 This month we great talks from UCI&amp;rsquo;s first set of graduates in the Master of Science, Business Analytics program. The talks are based on the analysis done by a team of graduate students during their five-month Capstone projects. As an interesting twice, one team did the analysis using python and the other used R. Both are great languages for analytical work.</description>
@@ -183,10 +202,10 @@ This month we great talks from UCI&amp;rsquo;s first set of graduates in the Mas
     
     <item>
       <title>OCUG Summer Bash</title>
-      <link>/blog/2018/06/21/2018-06-21-ocug-summer-bash/</link>
+      <link>https://ocrug.org/blog/2018/06/21/2018-06-21-ocug-summer-bash/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/06/21/2018-06-21-ocug-summer-bash/</guid>
+      <guid>https://ocrug.org/blog/2018/06/21/2018-06-21-ocug-summer-bash/</guid>
       <description>OC User Group Summer Bash 2018.
 EVENTBRITE REGISTRATION: https://ocugsummerbash2018.eventbrite.com/
 Our OC User Groups at PeopleSpace is OC&amp;rsquo;s biggest technology meetup collaboration event. OCRUG is a member of this group.

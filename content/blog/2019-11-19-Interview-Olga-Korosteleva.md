@@ -1,5 +1,5 @@
 ---
-title: Interview:  Olga Korosteleva
+title: Interview  Olga Korosteleva
 author: ''
 date: '2019-11-19'
 slug: Advanced-Regression

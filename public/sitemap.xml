@@ -3,128 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/2019/06/25/2019-06-25-integrating-react-js-and-shiny-and-uci-capstone/</loc>
+    <loc>https://ocrug.org/blog/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/blog/2019/11/19/2019-11-19-interview-alan-dipert/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/blog/2019/11/19/2019-11-19-interview-olga-korosteleva/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/blog/2019/06/25/2019-06-25-integrating-react-js-and-shiny-and-uci-capstone/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2019/04/29/2019-04-29-deep-learning-using-r-rest-apis-and-shiny/</loc>
+    <loc>https://ocrug.org/blog/2019/04/29/2019-04-29-deep-learning-using-r-rest-apis-and-shiny/</loc>
     <lastmod>2019-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2019/04/26/2019-04-26-scasa-38th-annual-applied-statistics-workshop/</loc>
+    <loc>https://ocrug.org/blog/2019/04/26/2019-04-26-scasa-38th-annual-applied-statistics-workshop/</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2019/04/06/2019-04-06-satrday-la-2019/</loc>
+    <loc>https://ocrug.org/blog/2019/04/06/2019-04-06-satrday-la-2019/</loc>
     <lastmod>2019-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2019/04/05/2019-04-05-asa-datafest-2019/</loc>
+    <loc>https://ocrug.org/blog/2019/04/05/2019-04-05-asa-datafest-2019/</loc>
     <lastmod>2019-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code/</loc>
+    <loc>https://ocrug.org/blog/2019/03/26/2019-03-26-deep-learning-using-r-and-unit-testing-your-code/</loc>
     <lastmod>2019-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2019/02/26/2019-02-26-opinion-mining-of-climate-change-research-and-xaringan-slides/</loc>
+    <loc>https://ocrug.org/blog/2019/02/26/2019-02-26-opinion-mining-of-climate-change-research-and-xaringan-slides/</loc>
     <lastmod>2019-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</loc>
+    <loc>https://ocrug.org/blog/2019/01/29/2019-01-29-tibbles-and-tidy-models/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</loc>
+    <loc>https://ocrug.org/blog/2018/12/06/2018-12-06-ocrug-holiday-party/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</loc>
+    <loc>https://ocrug.org/blog/2018/11/27/2018-11-27-telling-meaningful-stories-with-data-connecting-javascript-to-shiny/</loc>
     <lastmod>2018-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</loc>
+    <loc>https://ocrug.org/blog/2018/10/08/2018-10-08-alteryx-application-of-r/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</loc>
+    <loc>https://ocrug.org/blog/2018/09/25/2018-09-25-apis-and-json-with-r-and-color-palette-similarity-measures/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</loc>
+    <loc>https://ocrug.org/post/cancer-mutations-scores-reactivity-in-shiny-apps/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/cancer-mutations-scores-rstudio-tune-up/</loc>
+    <loc>https://ocrug.org/blog/2018/08/28/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/cancer-mutations-scores-reactivity-in-shiny-apps/</loc>
+    <loc>https://ocrug.org/post/cancer-mutations-scores-rstudio-tune-up/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</loc>
+    <loc>https://ocrug.org/post/</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/06/21/2018-06-21-ocug-summer-bash/</loc>
+    <loc>https://ocrug.org/blog/2018/06/21/2018-06-21-ocug-summer-bash/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <loc>https://ocrug.org/post/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>https://ocrug.org/categories/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://ocrug.org/contact/</loc>
   </url>
   
   <url>
-    <loc>/faq/</loc>
+    <loc>https://ocrug.org/faq/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
+    <loc>https://ocrug.org/tags/</loc>
   </url>
   
 </urlset>
