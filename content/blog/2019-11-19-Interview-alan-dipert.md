@@ -9,8 +9,6 @@ banner: "img/banners/ADbanner.jpg"
 ---
 
 
-Alan Dipert
-
 Alan is a software engineer on the Shiny team at RStudio. In his 10+ years of experience in software development, he has helped build web applications, reporting pipelines, and many things between, including stints as a Staff Sergeant in the US Army and presidents of non-profit hacker and maker organizations.  When his is not working, he likes to spend his time reading or being with his family. He holds a B.S. in Information Technology from Rochester Institutes of Technology.
 
 
