@@ -1,10 +1,11 @@
 ---
-title: Interview  Alan Dipert
+title: Interview with Alan Dipert
 author: 
 date: '2019-11-19'
 slug: alan-dipert
 categories: []
 tags: []
+banner: "img/banners/ADbanner.jpg"
 ---
 
 

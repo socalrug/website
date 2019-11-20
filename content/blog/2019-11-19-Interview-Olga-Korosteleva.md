@@ -9,9 +9,6 @@ banner: "img/banners/OKbanner.jpg"
 ---
 
 
-# Olga Korosteleva
-
-
 
 Olga is a statistician by education and trade. She received her Ph.D. in statistics from Purdue University in 2002, where she taught statistics courses as a teaching assistant for six years. For the past 17 years she has been working as a professor of Statistics at Cal State University, Long Beach (CSULB). She has authored/co-authored 15 articles published in peer-reviewed journals, mostly in applied fields (kinesiology, nursing, and health sciences), including four books (clinical trials, minimax theory, nonparametric statistics, and advanced regressions). Her passion for statistics and organizational skills are not limited to her job alone. For the past six years, she has taught extracurricular lessons in math and science to elementary school students, and for the past year she held regular practice sessions for middle-school and high-school students to prepare them for various math competitions.
 
