@@ -6,10 +6,29 @@
     <description>Recent content in Blogs on Orange County R Users Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ocrug.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interview with Carey Huh</title>
+      <link>https://ocrug.org/blog/2019/11/20/2019-11-20-interview-with-carey-huh/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocrug.org/blog/2019/11/20/2019-11-20-interview-with-carey-huh/</guid>
+      <description>Carey is a UC Irvine researcher in neuroscience. More specifically she studies the visual parts of the brain in mice. She also has a side project where she has been learning about university students, their learning styles and career motivations. As part of her work, she uses R a lot for data exploration, statistical analysis, data visualization and some simple modeling.
+1) What does data science mean to you? Data science means to explore, analyze and think critically about data and to be able to to glean meaningful insights from data.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Greg Falleto</title>
+      <link>https://ocrug.org/blog/2019/11/20/2019-11-20-interview-with-greg-falleto/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ocrug.org/blog/2019/11/20/2019-11-20-interview-with-greg-falleto/</guid>
+      <description>Greg Faletto is a research assistant and PhD student in the Statistics group of the Department of Data Sciences and Operations at the University of Southern California Marshall School of Business. Greg’s research broadly focuses on feature selection, machine learning, and applied statistical methods for business and social science. Over the past decade Greg has developed original data science models for companies like Live Nation and ZipRecruiter, and his team won “Best Model” at the Orange County R Users Group Hackathon 2019 for their predictive model that correlated regional health outcomes with the presence of water pollutants in California.</description>
+    </item>
     
     <item>
       <title>Interview with Alan Dipert</title>
