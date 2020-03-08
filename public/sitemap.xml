@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ocrug.org/post/from-data-to-dashboards-in-a-day/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/post/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/post/power-bi-and-march-madness/</loc>
+    <lastmod>2020-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/post/book-club-feature-engineering-and-selection/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ocrug.org/blog/</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +39,6 @@
   
   <url>
     <loc>https://ocrug.org/blog/2019/11/20/2019-11-20-interview-with-greg-falleto/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ocrug.org/</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,11 +128,6 @@
   </url>
   
   <url>
-    <loc>https://ocrug.org/post/</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ocrug.org/blog/2018/07/31/2018-07-31-ibm-watson-and-pacific-life/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
   </url>
@@ -124,6 +139,11 @@
   
   <url>
     <loc>https://ocrug.org/post/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/post/2020-03-14-from-data-to-dashboards-in-a-day/</loc>
     <priority>0</priority>
   </url>
   
