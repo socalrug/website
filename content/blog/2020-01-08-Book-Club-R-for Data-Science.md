@@ -1,7 +1,7 @@
 ---
 title: Book Club: R for Data Science
 author: ''
-date: '2019-11-20'
+date: '2020-01-08'
 slug: Book Club: R for DAta Science
 categories: []
 tags: []
