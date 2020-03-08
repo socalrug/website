@@ -5,6 +5,7 @@ date: '2020-03-14'
 slug: from-data-to-dashboards-in-a-day
 categories: []
 tags: []
+banner: "img/banners/dashboards.jpg"
 ---
 
 
