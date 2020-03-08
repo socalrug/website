@@ -5,6 +5,7 @@ date: '2020-03-07'
 slug: power-bi-and-march-madness
 categories: []
 tags: []
+banner: "img/banners/powerBI.jpg"
 ---
 
 

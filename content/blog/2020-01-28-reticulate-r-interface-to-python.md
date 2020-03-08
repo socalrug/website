@@ -5,6 +5,7 @@ date: '2020-01-28'
 slug: reticulate-r-interface-to-python
 categories: []
 tags: []
+banner: "img/banners/Reticulate.jpg"
 ---
 
 Details

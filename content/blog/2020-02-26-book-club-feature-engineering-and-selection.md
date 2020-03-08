@@ -5,6 +5,7 @@ date: '2020-02-26'
 slug: book-club-feature-engineering-and-selection
 categories: []
 tags: []
+banner: "img/banners/bookFES.jpg"
 ---
 
 
