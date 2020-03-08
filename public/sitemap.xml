@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ocrug.org/post/from-data-to-dashboards-in-a-day/</loc>
+    <loc>https://ocrug.org/blog/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/blog/2020/03/14/2020-03-14-from-data-to-dashboards-in-a-day/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,23 +18,23 @@
   </url>
   
   <url>
-    <loc>https://ocrug.org/post/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ocrug.org/post/power-bi-and-march-madness/</loc>
+    <loc>https://ocrug.org/blog/2020/03/07/2020-03-07-power-bi-and-march-madness/</loc>
     <lastmod>2020-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ocrug.org/post/book-club-feature-engineering-and-selection/</loc>
+    <loc>https://ocrug.org/blog/2020/02/26/2020-02-26-book-club-feature-engineering-and-selection/</loc>
     <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ocrug.org/blog/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <loc>https://ocrug.org/post/book-club-r-for-data-science/</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ocrug.org/post/</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,12 +143,12 @@
   </url>
   
   <url>
-    <loc>https://ocrug.org/post/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</loc>
+    <loc>https://ocrug.org/blog/1/01/01/2020-03-14-from-data-to-dashboards-in-a-day/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ocrug.org/post/2020-03-14-from-data-to-dashboards-in-a-day/</loc>
+    <loc>https://ocrug.org/post/2018-08-28-cancer-mutations-scores-rstudio-tune-up/</loc>
     <priority>0</priority>
   </url>
   
