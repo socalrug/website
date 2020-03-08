@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Convolutional Neural Networks and Using C&#43;&#43; in R with Rcpp</title>
+  <meta name="author" content="" />
+
+  
+  <meta name="keywords" content="devows, hugo, go">	
+  
+
+  
+  <meta name="description" content="Site template made by devcows using hugo">	
+  
+
+  <meta name="generator" content="Hugo 0.58.3" />
+
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  
+  <link href="/css/animate.css" rel="stylesheet">
+
+  
+  
+    <link href="/css/style.violet.css" rel="stylesheet" id="theme-stylesheet">
+  
+
+
+  
+  <link href="/css/custom.css" rel="stylesheet">
+
+  
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />
+  
+
+  <link href="/css/owl.carousel.css" rel="stylesheet">
+  <link href="/css/owl.theme.css" rel="stylesheet">
+
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Orange County R Users Group">
+
+  
+  <meta property="og:title" content="Convolutional Neural Networks and Using C&#43;&#43; in R with Rcpp" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/post/convolutional-neural-networks-and-using-c-in-r-with-rcpp//" />
+  <meta property="og:image" content="img/OCRUG_logo_small3.png" />
+
+</head>
+
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          <div class="navbar-affixed-top" data-spy="affix" data-offset-top="200">
+
+    <div class="navbar navbar-default yamm" role="navigation" id="navbar">
+
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="/">
+                    <img src="/img/OCRUG_logo_small3.png" alt="Convolutional Neural Networks and Using C&#43;&#43; in R with Rcpp logo" class="hidden-xs hidden-sm">
+                    <img src="/img/OCRUG_logo_small3.png" alt="Convolutional Neural Networks and Using C&#43;&#43; in R with Rcpp logo" class="visible-xs visible-sm">
+                    <span class="sr-only">Convolutional Neural Networks and Using C&#43;&#43; in R with Rcpp - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                      <span class="sr-only">Toggle Navigation</span>
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+            
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/">Home</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/blog/">Blog</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/contact/">Contact</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="https://github.com/ocrug/hackathon-2019/blob/master/code-of-conduct.md">Code of Conduct</a>
+                    
+                  </li>
+                  
+                </ul>
+            </div>
+            
+
+            <div class="collapse clearfix" id="search">
+
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+
+                </span>
+                    </div>
+                </form>
+
+            </div>
+            
+
+        </div>
+    </div>
+    
+
+</div>
+
+
+
+
+        </header>
+
+        <div id="heading-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Convolutional Neural Networks and Using C&#43;&#43; in R with Rcpp</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    
+
+                    <div class="col-md-9" id="blog-post">
+
+                        <p class="text-muted text-uppercase mb-small text-right">September 24, 2019</p>
+
+                        <div id="post-content">
+                          
+
+<p>Details</p>
+
+<h1 id="introduction">Introduction</h1>
+
+<p>Ash will cover the architecture of Convolutional Neural Networks (CNN). The Convolution and Pooling operations will be covered. Tools for building a CNN are R and TensorFlow. The implementation of CNN in R will be demonstrated.</p>
+
+<p>Luke will talk about using C++ in R. Are is a beautiful language but some operations can be slow. The RCpp package makes this an easy talk and can drastically improve the performance of your code.</p>
+
+<p>Come early, network, enjoy the food and talks.</p>
+
+<h1 id="schedule">Schedule</h1>
+
+<p>6:30 - 6:50 Networking
+6:50 - 7:00 Welcome &amp; general announcement
+7:00 - 7:30 Convolutional Neural Networks
+7:30 - 8:00 Speeding up R with Rcpp
+8:00 - Raffle
+8:00 - 8:30 Networking and Clean-up</p>
+
+<h1 id="talk-1">Talk 1</h1>
+
+<h2 id="title-convolutional-neural-networks">Title: Convolutional Neural Networks</h2>
+
+<h2 id="speaker-ash-pahwa">Speaker: Ash Pahwa</h2>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>A convolutional neural network (CNN) is a class of deep neural networks used primarily for analyzing visual imagery. CNNs are used for object recognition in an image. Autonomous cars use CNN technology to navigate smoothly on the roads. There are many biomedical applications where CNN is used for image analysis.</p>
+
+<p>The motivation for CNN originated from the Hubel &amp; Wiesel (Noble prize winners 1981) study of the human visual system. This research leads to the idea that if we apply the convolution operations to the image and then feed them to neural networks, the accuracy of object identification increases. This idea started the revolution of CNN.</p>
+
+<p>This talk will cover the architecture of CNN. The Convolution and Pooling operations will be covered. Tools for building a CNN are R and TensorFlow. The implementation of CNN in R will be demonstrated.</p>
+
+<h1 id="talk-2">Talk 2</h1>
+
+<h2 id="title-speeding-up-r-with-rcpp">Title: Speeding up R with Rcpp</h2>
+
+<h2 id="speaker-luke-klein">Speaker: Luke Klein</h2>
+
+<h2 id="abstract-1">Abstract</h2>
+
+<p>R is a beautiful and flexible language, and it is improving all the time. However, some processes (e.g. repeated function calls) can add a lot of computational overhead. Rcpp is a package for extending R with C++ functions which is utilized by over 1000 packages on CRAN. Many R data types and objects can be mapped back and forth to C++ equivalents which facilitates both writing new code for people just learning C++, as well as easier integration of third-party libraries. In this talk, I&rsquo;ll demonstrate how easy it is to get started with Rcpp and what kind of performance boosts one can achieve. If you&rsquo;re taking aim at levelling-up your function writing skills then Rcpp is the place to start.</p>
+
+<h1 id="sponsor">Sponsor</h1>
+
+<p>Kforce is an international staffing firm specialized in the IT and Finance and Accounting space. We work with 70% of fortune 100s as well mid to smaller businesses in local markets. We build relationships and are genuinely interested in what you do. If you are looking for a new opportunity or need assistance in finding top talent we can align you to that goal.</p>
+
+<p>Download our Job Board app and receive referral fees on average $500-$1000 <a href="https://kfrc.co/download">https://kfrc.co/download</a></p>
+
+<p>Contact: John Nacy – Managing Director of Technology at Kforce, [masked]</p>
+
+                        </div>
+                        
+                        
+                        <div id="comments">
+                            <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "devcows" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+                        </div>
+                        
+
+                    </div>
+                    
+
+                    
+
+                    
+
+                    <div class="col-md-3">
+
+                        
+
+                        
+
+<div class="panel panel-default sidebar-menu">
+
+    <div class="panel-heading">
+      <h3 class="panel-title">Search</h3>
+    </div>
+
+    <div class="panel-body">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
+            <div class="input-group">
+                <input type="search" name="q" class="form-control" placeholder="Search">
+                <input type="hidden" name="sitesearch" value="/">
+                <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+                </span>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+                    </div>
+                    
+
+                    
+
+                </div>
+                
+
+            </div>
+            
+        </div>
+        
+
+        <footer id="footer">
+    <div class="container">
+
+        
+
+        <div class="col-md-4 col-sm-6">
+
+             
+            <h4>Recent posts</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="/blog/">
+                          
+                            <img src="/img/placeholder.png" class="img-responsive" alt="Blogs">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="/blog/">Blogs</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="/blog/2020/03/14/2020-03-14-from-data-to-dashboards-in-a-day/">
+                          
+                            <img src="/img/placeholder.png" class="img-responsive" alt="From Data to Dashboards in a Day ">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="/blog/2020/03/14/2020-03-14-from-data-to-dashboards-in-a-day/">From Data to Dashboards in a Day </a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="/blog/2020/03/07/2020-03-07-power-bi-and-march-madness/">
+                          
+                            <img src="/img/placeholder.png" class="img-responsive" alt="Power BI and March Madness">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="/blog/2020/03/07/2020-03-07-power-bi-and-march-madness/">Power BI and March Madness</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+
+            <hr class="hidden-md hidden-lg">
+             
+
+        </div>
+        
+
+        
+        <div class="col-md-4 col-sm-6">
+
+          <h4>Contact</h4>
+
+            <strong>PeopleSpace</strong>
+        <br>1691 Kettering Street
+        <br>Irvine, CA
+        <br>
+        <strong>USA</strong>
+
+            <a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+    </div>
+    
+</footer>
+
+
+
+
+
+
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            
+            <p class="pull-right">
+              Template by <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
+              
+
+              Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    </div>
+    
+
+    
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+<script src="/js/hpneo.gmaps.js"></script>
+<script src="/js/gmaps.init.js"></script>
+<script src="/js/front.js"></script>
+
+
+<script src="/js/owl.carousel.min.js"></script>
+
+
+  </body>
+</html>

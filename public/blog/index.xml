@@ -43,6 +43,17 @@ The format will be that the leader will prepare a short summary of the material 
     </item>
     
     <item>
+      <title>reticulate: R Interface to Python</title>
+      <link>/blog/2020/01/28/2020-01-28-reticulate-r-interface-to-python/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020/01/28/2020-01-28-reticulate-r-interface-to-python/</guid>
+      <description>Details Bring your laptop
+Introduction This month this we are going to try something new and break from our traditional two talks. Michael Espero is going to introduce the &amp;lsquo;reticulate&amp;rsquo; package. Reticulate provides a comprehensive set of tools for interoperability between Python and R. The package includes facilities for:
+ Calling Python from R in a variety of ways including R Markdown, sourcing Python scripts, importing Python modules, and using Python interactively within an R session.</description>
+    </item>
+    
+    <item>
       <title>Book Club: R for Data Science</title>
       <link>/blog/2020/01/08/2020-01-08-book-club-r-for-data-science/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
@@ -50,6 +61,17 @@ The format will be that the leader will prepare a short summary of the material 
       <guid>/blog/2020/01/08/2020-01-08-book-club-r-for-data-science/</guid>
       <description>Details We are looking to start a book club to improve our R skills. It will be headed up by Xi Chen. The idea is to motivate us to read books and discussing them together. This will help all of us to develop our skills.
 The format will be that the leader will prepare a short summary of the material and present it to the group. We will then discuss the material and do some exercises.</description>
+    </item>
+    
+    <item>
+      <title>Using YAML and Python in your R Workflow</title>
+      <link>/blog/2019/11/29/2019-11-29-using-yaml-and-python-in-your-r-workflow/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/11/29/2019-11-29-using-yaml-and-python-in-your-r-workflow/</guid>
+      <description>Details
+Introduction Malcolm has been interning with RStudio and working on a package, ymlthis, which will allow you too write YAML code using R. The goal is to make it easier to create the metadata needed by markdown, bookdown, blogdown and other frameworks used in R.
+R and Python are both popular languages in Data Science. There is no need to limit yourself to just one. Michael will show us how to incorporate python into your R workflow.</description>
     </item>
     
     <item>
@@ -72,6 +94,16 @@ The format will be that the leader will prepare a short summary of the material 
     </item>
     
     <item>
+      <title>Integrating React.js and Shiny and, Building Packages in an Ecosystem</title>
+      <link>/blog/2019/11/19/2019-11-19-integrating-react-js-and-shiny-and-building-packages-in-an-ecosystem/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/11/19/2019-11-19-integrating-react-js-and-shiny-and-building-packages-in-an-ecosystem/</guid>
+      <description>Details Note, this month our meetup will be a week earlier to accommodate the Thanksgiving week
+Introduction This month we are lucky to have two of our seasoned speakers presenting. Alan, from RStudio, will give his much-anticipated talk on integrating React.js with Shiny. The reactR package has been updated to allow you to integrate with htmlwidgets and access all the React components. Emil will talk about his experience integrating the textrecipes into an ecosystem of packages and the lessons that he has learnt.</description>
+    </item>
+    
+    <item>
       <title>Interview with Alan Dipert</title>
       <link>/blog/2019/11/19/2019-11-19-interview-alan-dipert/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
@@ -90,12 +122,89 @@ The format will be that the leader will prepare a short summary of the material 
     </item>
     
     <item>
+      <title>Portfolio Website Building Tutorial</title>
+      <link>/blog/2019/11/16/2019-11-16-portfolio-website-building-tutorial/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/11/16/2019-11-16-portfolio-website-building-tutorial/</guid>
+      <description>Details Register on Eventbrite https://tinyurl.com/ocrug-portfolio
+Are you interested in building a portfolio website to showcase your work? Then come to this tutorial and get hands-on instruction on how to build-out a data analyst/data scientist website. We will be using Rstudio to create the prototype site and publish it using github and netlify.
+Space is limited.
+Before the event, please make sure that you meet the following requirements: * A laptop * A recent version of R and Rstudio * Github account - https://github.</description>
+    </item>
+    
+    <item>
+      <title>Data Science Hackathon - **Signup on Eventbrite not Meetup**</title>
+      <link>/blog/2019/11/09/2019-11-09-data-science-hackathon-signup-on-eventbrite-not-meetup/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/11/09/2019-11-09-data-science-hackathon-signup-on-eventbrite-not-meetup/</guid>
+      <description>Details We are excited to announce that the second Orange Country R Users Group (OCRUG) data science hackathon now has tickets available. It is a weekend-long event on Nov 09 and 10th.
+You can purchase tickets on eventbrite. https://tinyurl.com/hackathon-2019-11
+This is the first Orange Country R Users Group (OCRUG) data science hackathon. During this event, we will be exploring an interesting data set, starting from the raw data all the way through to a final &amp;ldquo;end product&amp;rdquo; (e.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Regression Models with R Applications</title>
+      <link>/blog/2019/10/05/2019-10-05-advanced-regression-models-with-r-applications/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/10/05/2019-10-05-advanced-regression-models-with-r-applications/</guid>
+      <description>Details **SIGN UP ON EVENTBRITE ** https://www.eventbrite.com/e/ocrug-advanced-regression-models-with-r-applications-tickets-70416075377
+In this workshop, we will talk about a variety of regression models, give their definitions, discussing goodness-of-fit criteria, presenting fitted models, interpreting estimated regression coefficients, and using the fitted models for prediction. The models will be limited to: linear regression, Box-Cox transformation, gamma regression, ordinary logistic regression, Poisson regression, beta regression, longitudinal (repeated measures) regression, and hierarchical model.
+The workshop is designed to be hands-on.</description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks and Using C&#43;&#43; in R with Rcpp</title>
+      <link>/blog/2019/09/24/2020-03-07-convolutional-neural-networks-and-using-c-in-r-with-rcpp/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/09/24/2020-03-07-convolutional-neural-networks-and-using-c-in-r-with-rcpp/</guid>
+      <description>Details
+Introduction Ash will cover the architecture of Convolutional Neural Networks (CNN). The Convolution and Pooling operations will be covered. Tools for building a CNN are R and TensorFlow. The implementation of CNN in R will be demonstrated.
+Luke will talk about using C++ in R. Are is a beautiful language but some operations can be slow. The RCpp package makes this an easy talk and can drastically improve the performance of your code.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Regressions and High-performance Computing</title>
+      <link>/blog/2019/08/27/2019-08-27-advanced-regressions-and-high-performance-computing/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/08/27/2019-08-27-advanced-regressions-and-high-performance-computing/</guid>
+      <description>Details
+Introduction Dr. Olga, a professor at CSU Long Beach will give a talk and advanced regression models. It is based on her recently released book &amp;ldquo;Advanced Regression Models with SAS and R.&amp;rdquo; This will also be a great introduction to the short course that we are planning for September. Check out the book at https://www.amazon.com/dp/1138049018/
+George G Vega Yon will be talking about doing high-performance computing in R. He will discuss the &amp;lsquo;parallel&amp;rsquo; package for parallel computing, Rcpp integrating C++ R, RcppArmadillo which is a linear algebra library and OpenMP which is an API for multiprocessing applications.</description>
+    </item>
+    
+    <item>
+      <title>Error and Condition Handling and, LDA Analysis of Cancer Genes</title>
+      <link>/blog/2019/07/30/2019-07-30-error-and-condition-handling-and-lda-analysis-of-cancer-genes/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/07/30/2019-07-30-error-and-condition-handling-and-lda-analysis-of-cancer-genes/</guid>
+      <description>Details
+Introduction This month, John Peach will give a talk on the basics of using the error handling system in R. He will also give a brief overview of the Condition Signalling system that it is based on. This is a powerful messaging system that is used for messages, warnings, errors and so much more.
+We also are delighted that Zhi Yang will discuss the used of topic modelling in the analysis of cancer genetics.</description>
+    </item>
+    
+    <item>
       <title>Integrating React.js and Shiny, and UCI Capstone</title>
       <link>/blog/2019/06/25/2019-06-25-integrating-react-js-and-shiny-and-uci-capstone/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/2019/06/25/2019-06-25-integrating-react-js-and-shiny-and-uci-capstone/</guid>
       <description>This month we have Alan Dipert from RStudio coming to talk about integrating React.js and Shiny. Alan is one of the key developers behind the development of Shiny and we are so lucky to have him there to share his knowledge.
+The Paul Merage School of Business at UCI is graduating their second cohort of students from their MS in Business Analytics program. Last year we invited them to present their Capstone projects and it was a huge success, so they are back this year.</description>
+    </item>
+    
+    <item>
+      <title>Making an R package with usethis, and UCI Capstone</title>
+      <link>/blog/2019/06/25/2019-06-25-making-an-r-package-with-usethis-and-uci-capstone/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/06/25/2019-06-25-making-an-r-package-with-usethis-and-uci-capstone/</guid>
+      <description>Details This month we have Emil Hvitfeldt coming to talk about making an R package with usethis. Building your code into R packages is simple and allows you to easily manage and reuse your code.
 The Paul Merage School of Business at UCI is graduating their second cohort of students from their MS in Business Analytics program. Last year we invited them to present their Capstone projects and it was a huge success, so they are back this year.</description>
     </item>
     

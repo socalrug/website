@@ -28,8 +28,18 @@
   </url>
   
   <url>
+    <loc>/blog/2020/01/28/2020-01-28-reticulate-r-interface-to-python/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2020/01/08/2020-01-08-book-club-r-for-data-science/</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/11/29/2019-11-29-using-yaml-and-python-in-your-r-workflow/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,6 +53,11 @@
   </url>
   
   <url>
+    <loc>/blog/2019/11/19/2019-11-19-integrating-react-js-and-shiny-and-building-packages-in-an-ecosystem/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2019/11/19/2019-11-19-interview-alan-dipert/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
@@ -53,7 +68,42 @@
   </url>
   
   <url>
+    <loc>/blog/2019/11/16/2019-11-16-portfolio-website-building-tutorial/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/11/09/2019-11-09-data-science-hackathon-signup-on-eventbrite-not-meetup/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/10/05/2019-10-05-advanced-regression-models-with-r-applications/</loc>
+    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/09/24/2020-03-07-convolutional-neural-networks-and-using-c-in-r-with-rcpp/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/08/27/2019-08-27-advanced-regressions-and-high-performance-computing/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/07/30/2019-07-30-error-and-condition-handling-and-lda-analysis-of-cancer-genes/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2019/06/25/2019-06-25-integrating-react-js-and-shiny-and-uci-capstone/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/06/25/2019-06-25-making-an-r-package-with-usethis-and-uci-capstone/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url>
   
