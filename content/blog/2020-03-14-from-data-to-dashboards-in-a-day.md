@@ -1,7 +1,7 @@
 ---
 title: 'From Data to Dashboards in a Day '
 author: ''
-date: '2020-03-14'
+date: canceled
 slug: from-data-to-dashboards-in-a-day
 categories: []
 tags: []
